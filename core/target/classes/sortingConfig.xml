@@ -1,0 +1,6 @@
+<sortingCriterion>
+    <criterion criterion="name" sorting="ASC"/>
+    <criterion criterion="brand" sorting="DESC"/>
+    <criterion criterion="price" sorting="ASC"/>
+    <criterion criterion="size" sorting="DESC"/>
+</sortingCriterion>
